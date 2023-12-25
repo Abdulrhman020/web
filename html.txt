@@ -1,0 +1,88 @@
+ <header>
+        <h1>Mexico Food Facts</h1>
+    </header>
+
+    <section>
+        <h2>10 Mexico Food Facts</h2>
+        <h4>Mexican cuisine is famous all over the world, and while you’ve probably tried tacos and enchiladas, 
+            there are more unique regional dishes to be found as you travel. As you do, you’ll learn more about
+             traditional Mexican food and discover new favorite dishes. With these fun facts about Mexican food,
+              you’ll be able to explore the local cuisine like an expert.</h4>
+              <h3>1. Tomatoes Come From Mexico</h3>
+              <h4>While most international cuisines use tomatoes, this vegetable originated in Mexico. In fact, 
+                they didn’t make their appearance in Italian kitchens until Spain brought them over from the Aztecs.
+                 As you make authentic Mexican food, you’ll almost always have tomatoes in the recipe, both red and green.</h4>
+                 <h3>2. Chiles en Nogada Reflect the Flag</h3>
+                 <img src="https://bucketrediseno.s3.amazonaws.com/uploads/photo/image/7426/chiles-en-nogada-mexican-food.jpg">
+                 <h4>One of the most interesting facts about Mexican food is that each holiday has its own traditional foods. 
+                    For Independence Day, families and restaurants around the country will be cooking chiles en nogada:
+                     green chilies stuffed with ground meat and vegetables, covered with a creamy walnut sauce and red pomegranate seeds. 
+                    The green, red, and white of this traditional Mexican food reflect the colors of the country’s flag, perfect for Independence Day.</h4>
+                    <h3>3. Tamales are One of the Oldest Mexican Foods</h3>
+                    <img src="https://bucketrediseno.s3.amazonaws.com/uploads/photo/image/7427/tamales-mexican-food-min.jpg">
+                    <h4>As you learn fun facts about Mexican food, you’ll see how the influence of ancient Aztec and Mayan cultures is still seen today,
+                         and tamales date back over 8,000 years. This traditional Mexican food is made from masa dough stuffed with meat and vegetables,
+                          all wrapped up and steamed in corn husks or banana leaves. 
+                        Because of this, tamales were perfect for packing on hunting expeditions and long traveling trips</h4>
+                        <h3>4. Tacos Can Be Eaten for Any Meal</h3>
+                        <img src="https://bucketrediseno.s3.amazonaws.com/uploads/photo/image/7428/tacos-mexican-food.jpg">
+                        <h4>If you love tacos, then you’ll love these interesting facts about Mexican food, 
+                            especially when you learn that tacos are eaten at every meal. At breakfast, you’ll see families eating pork tacos and egg burritos.
+                             Lunchtime is when seafood tacos are typically eaten, and all sorts of meat fill soft tortillas are served for dinner.</h4>
+                             <h3>5. Chocolate Originated in Mexico</h3>
+                             <img src="https://bucketrediseno.s3.amazonaws.com/uploads/photo/image/7429/chocolate-mexican-drink.jpg">
+                             <h4>Mexico food facts aren’t just savory. They’re also sweet. One of the world’s most famous desserts originated in Mexico: chocolate.
+                                 When the Spanish arrived, they found the Aztecs making a thick drink from cacao seeds. Today, 
+                                Mexican hot chocolate is made from melting hard tablets of chocolate in warm milk,
+                                 and it has a distinct flavor from added cinnamon.</h4>
+                                 <h3>6. Most Edible Insects are Found in Mexico</h3>
+                                 <img src="https://bucketrediseno.s3.amazonaws.com/uploads/photo/image/7433/mexican-food-facts.jpg">
+                                 <h4>Mexican cuisine can be surprising, and in some regions, grasshoppers are a favorite. To flavor them, 
+                                    add some lime juice and chili peppers, and you can even put them into your tacos.
+                                     This is one of the most interesting facts about Mexican food that you’ll want to experience in your travels.</h4>
+                                     <h3>7. You Might Find a Baby in a Cake</h3>
+                                     <img src="https://bucketrediseno.s3.amazonaws.com/uploads/photo/image/7430/rosca-de-reyes.jpg">
+                                     <h4>Holidays in Mexico have their own treats and traditions, and on the Catholic Day of Epiphany, 
+                                        Mexico celebrates Three Kings Day with rosca de reyes. This ring-shaped flaky pastry is decorated with colorful sugar and 
+                                        candied fruits. When you take a slice, watch out for a plastic baby that’s been hidden inside. One of 
+                                        the most fun facts about Mexican food is that whoever finds it is in charge of bringing tamales to the next celebration on February 2.</h4>
+                                        <h3>8. Mole Isn’t an Animal</h3>
+                                        <img src="https://bucketrediseno.s3.amazonaws.com/uploads/photo/image/7431/mole-traditional-mexican-food.jpg">
+                                        <h4>Mole (pronounced mow-lay) is a sweet and savory authentic Mexican food, but it’s not what you might think.
+                                             Mole is a traditional sauce made with a long list of ingredients. While there are many varieties, 
+                                            traditional mole is made sweet from the addition of chocolate,
+                                             which is mixed in with several different types of dried chiles.</h4>
+                                             <h3>9. Seafood is an Important Part of Mexican Cuisine</h3>
+                                             <img src="https://bucketrediseno.s3.amazonaws.com/uploads/photo/image/7432/seafood-part-of-the-mexican-cuisine.jpg">
+                                             <h4>Mexico is famous for it’s tropical beaches, so it’s no surprise that the people who live along the 
+                                                coast eat plenty of seafood. Since ancient times, 
+                                                fish was an important part of the regional cuisine. Today, fish tacos and shrimp ceviche are popular dishes at the beach</h4>
+                                                <h3> 10. Authentic Mexican Food is Very Healthy  </h3>
+                                                <h4>One of the most important Mexico food facts to keep in mind is that the country’s cuisine is actually quite healthy.
+                                                     Almost every dish is served with fresh salsa and topped with vegetables. 
+                                                     While you can definitely find some greasy tacos on the street, it’s easy to prepare healthy versions, 
+                                                     and unlike what most people think, tacos don’t usually have cheese on them unless you ask for a quesadilla.
+                                                      Melted cheese is actually more traditional in Tex-Mex kitchens than it is throughout Mexico.
+                                                     Additionally, traditional Mexican food mainly uses corn tortillas, which are naturally gluten free.</h4>
+
+
+
+
+
+
+    <section>
+        <h2>Feedback</h2>
+        <form action="#" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <input type="submit" value="Submit">
+        </form>
+    </section>
+
